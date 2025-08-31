@@ -12,6 +12,14 @@ public class Punto {
 		this.setX(x);
 		this.setY(y);
 	}
+	//Nahiara tiene hambre
+	//fdfdfasfsdf
+	//fdfdfasfsdf
+	//fdfdfasfsdf
+	//fdfdfasfsdf
+	//fdfdfasfsdf
+	//fdfdfasfsdf
+	
 	
 	public float getX() {
 		return x;
